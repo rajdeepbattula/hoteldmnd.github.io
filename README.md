@@ -1,0 +1,3 @@
+# Demand Of Hotel Bookings
+Resort Hotels versus City Hotels, which one should you choose? Oftentimes, travelers struggle to find which hotel types fit their needs. The difference between these two types are the additional sports and leisure facilities that resorts have over hotels. Resorts are spacious and typically have everything that guests need in one place. 
+Our project goal is to provide the difference between these two in a visualization/exploratory form that will provide viewers with insights of differences or similarities between Resort Hotels versus City Hotels based on guest types, bookings, length or stay, accommodation types, percentage of bookings and several more
